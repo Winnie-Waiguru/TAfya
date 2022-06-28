@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TAfya</string>
+    <string name="find_a_doctor_online">Find a doctor online</string>
+    <string name="find_a_licensed_doctor_online_at_the_comfort_of_your_home_or_just_anywhere_with_a_stable_internet_connection">Find a licensed doctor online at the comfort of your home or just anywhere with a stable internet connection.</string>
+    <string name="next">Next</string>
+    <string name="get_a_legal_prescription_online_talk_to_your_doctor_and_based_on_your_medical_history_you_can_get_a_prescription">Get a legal prescription online. Talk to your doctor and based on your medical history you can get a prescription</string>
+    <string name="get_a_legal_prescription_online_talk_to_your_doctor_and_based_on_yuour_medical_history_you_can_get_a_prescription">Get a legal prescription online. Talk to your doctor and based on yuour medical history you can get a prescription.</string>
+    <string name="e_prescription">E-prescription</string>
+    <string name="get_started">Get started</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an account? <u>Sign Up</u></string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="remember_me">Remember me</string>
+    <string name="sign_in">Sign In</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="enter_an_email_associated_with_this_account">Enter an email associated with this account</string>
+    <string name="we_will_email_you_a_link_to_reset_your_password">We will email you a link to reset your password.</string>
+    <string name="enter_your_email">Enter your email</string>
+</resources>
